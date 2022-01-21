@@ -1,0 +1,54 @@
+body{
+   background-image: url("novelsbg.jpg.jpg");
+   height: 50%; 
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.container1{
+   font-family:'Mochiy Pop P One', sans-serif;;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   color: white;
+   font-size: large;
+   height: 700px;
+   width: 1500px;
+    
+}
+
+
+
+
+button{
+    background-color: transparent;
+    border-color: white;
+    border-style:double;
+    border-radius: 30px;
+    font-size: large;
+    color:white;
+    height: 50px;
+    width: 200px;
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+}
+
+.container2{
+    color: white;
+    background-color: #936639;
+    padding:20px;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+.container3{
+    padding: 20px;
+    background-color: #a68a64;
+    border-radius: 30px;
+}
+
